@@ -1,11 +1,11 @@
 # Covid_Vaccination_Booking
-
-Admin Login Details: admin
+<br>
+Admin Login Details: admin <br>
 user name:Admin@123
+<br>
 
-
-Admin Module:
-Secure Login/Logout
+Admin Module: <br>
+Secure Login/Logout <br>
 Dashboard (displays testing data summary)
 Insert/ delete/ view/ update/ search Phlebotomist
 Insert/ delete/ view/ update/ search Testing
