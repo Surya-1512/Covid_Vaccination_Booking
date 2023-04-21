@@ -1,9 +1,9 @@
 ﻿# Covid_Vaccination_Booking
  <br>
- Admin Login Details:
+** Admin Login Details:
  <br>
  Username: admin <br> 
-Password: Admin@123 <br>
+Password: Admin@123 <br> **
 
 **Admin Module :** <br>
 Secure Login/Logout  <br>
@@ -21,3 +21,11 @@ The admin can Filter By Date Range  <br>
 The admin can Filter By Name or Mobile Number  <br>
 Insert/ delete/ view/ update/ search Profile  <br>
 Update Password  <br>
+
+
+** User Module: ** <br>
+Signup of New User <br>
+Dashboard <br>
+Scheduling the New Testing <br>
+Getting the Test Report <br>
+Download Report by the admin <br>
