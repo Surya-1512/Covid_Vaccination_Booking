@@ -6,27 +6,26 @@ user name:Admin@123
 
 Admin Module: <br>
 Secure Login/Logout <br>
-Dashboard (displays testing data summary)
-Insert/ delete/ view/ update/ search Phlebotomist
-Insert/ delete/ view/ update/ search Testing
-Insert/ delete/ view/ update/ search New Test Record
-Assign Test Record
-Sample Collected by admin
-Sent to Lab by admin
-Report Delivered
-List All Test Records by admin
-Reports
-The admin can Filter By Date Range
-The admin can Filter By Name or Mobile Number
-Insert/ delete/ view/ update/ search Profile
-Update Password
+Dashboard (displays testing data summary) <br>
+Insert/ delete/ view/ update/ search Testing <br>
+Insert/ delete/ view/ update/ search New Test Record <br>
+Assign Test Record <br> 
+Sample Collected by admin <br>
+Sent to Lab by admin <br>
+Report Delivered <br>
+List All Test Records by admin <br>
+Reports <br>
+The admin can Filter By Date Range <br>
+The admin can Filter By Name or Mobile Number <br>
+Insert/ delete/ view/ update/ search Profile <br>
+Update Password <br>
 
-User Module:
-Signup of New User
-Dashboard
-Scheduling the New Testing
-Getting the Test Report
-Download Report by the admin
+User Module: <br>
+Signup of New User <br>
+Dashboard <br>
+Scheduling the New Testing <br>
+Getting the Test Report <br>
+Download Report by the admin <br>
 
-DB file name:
-covidtmsdb.sql
+DB file name: <br>
+covidtmsdb.sql <br>
